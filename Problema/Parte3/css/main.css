@@ -1,1 +1,34 @@
-/* Agrega aqui tu CSS */
+div {
+
+	border:7px solid orange;
+	border-width: 2px 2px ;
+	width:210px;
+	height:220px;
+	padding-left: 10px;
+	padding-top: 10px;
+
+	
+}
+
+
+.dos{
+
+	border:7px solid orange;
+	border-width: 2px 2px ;
+	width:210px;
+	height:220px;
+	padding-left: 10px;
+	padding-top: 10px;
+	
+}
+
+.tres{
+
+	border:7px solid orange;
+	border-width: 2px 2px ;
+	width:210px;
+	height:220px;
+	padding-left: 10px;
+	padding-top: 10px;
+	
+}/* Agrega aqui tu CSS */

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+	<link rel="stylesheet" href="css/main.css">
+    </head>
+    <body>
+    <h1>Indice</h1>
+    <p>	Utilizando el menu para navegar entre: </p>
+    <ul>	
+		<li><a href="Parte1/index.html">Parte1</a></li>
+		<li><a href="Parte2/index.html">Parte2</a></li>
+		<li><a href="Parte3/index.html">Parte3</a></li>
+		<li><a href="Parte4/index.html">Parte4</a></li>
+
+
+    </ul>
+    </body>
+</html>
